@@ -2,7 +2,7 @@ const BOOKS = [
   {"no":1,"status":"published","title":"初期15万円から、年利30%超を狙える！ 新しい市場が現れました","image":"book1.jpg","amazon":"https://www.amazon.co.jp/dp/B0HDHJT2P7"},
   {"no":2,"status":"published","title":"初期15万円から、年利30%超を狙える！ ローカルLLMとは？","image":"book2.jpg","amazon":"https://www.amazon.co.jp/dp/B0HFZ66FZG"},
   {"no":3,"status":"published","title":"起業1年目の経営者のための AI算力運用事業とは？","image":"book3.jpg","amazon":"https://www.amazon.co.jp/dp/B0HGPJK2TD"},
-  {"no":4,"status":"comingsoon","title":"Coming Soon","image":"","amazon":""},
+  {"no":4,"status":"published","title":"はじまった、副業なしで副収入 15万円から始める、小さなAI算力運用","image":"book4.jpg","amazon":"https://www.amazon.co.jp/dp/B0HJ62LS2L"},
   {"no":5,"status":"comingsoon","title":"Coming Soon","image":"","amazon":""},
   {"no":6,"status":"comingsoon","title":"Coming Soon","image":"","amazon":""},
   {"no":7,"status":"comingsoon","title":"Coming Soon","image":"","amazon":""},
